@@ -1,4 +1,4 @@
-package Composicao;
+package PessoaList;
 
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -113,4 +113,5 @@ public class ListPessoa {
 	public void setLista(List<Pessoa> lista) {
 		this.lista = lista;
 	}
+	
 }

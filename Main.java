@@ -1,4 +1,4 @@
-package Composicao;
+package PessoaList;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -49,7 +49,5 @@ public class Main {
 		System.out.println("Aniversariantes no mês passado como parâmetro: ");
 		
 		System.out.println(listpessoa.aniversarianteMes(1));
-
 	}
-
 }

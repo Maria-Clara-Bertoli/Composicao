@@ -1,10 +1,10 @@
-package Composicao;
+package PessoaList;
 
-import java.util.Date;
 import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class Pessoa {
-
+	
 	private String nome;
 	private String email;
 	private Date datanascimento;
@@ -54,4 +54,3 @@ public class Pessoa {
 		return builder.toString();
 	}
 }
-
